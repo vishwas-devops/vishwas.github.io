@@ -11,8 +11,13 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
+# Vishwas Gandhi
+# AWS | DevOps Engineer
+## Phone: (519)-992-9166
+## Email: vishwasgandhi.ca@gmail.com
+## LinkedIn: https://www.linkedin.com/in/vishwas-gandhi-041059a6/
+## Software Engineer II (AWS | DevOps) | Data Analytics | ETL |Docker | Tableau | Excel | 2X AWS Certified
+
 ### Header 3
 
 - Bulleted
